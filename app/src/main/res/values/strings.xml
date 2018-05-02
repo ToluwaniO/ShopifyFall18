@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShopifyFall18</string>
+    <string name="price">$%1.2f</string>
+    <string name="items_number_one">1 item</string>
+    <string name="items_number">%1d items</string>
+    <string name="zero_items">0 items</string>
+</resources>
